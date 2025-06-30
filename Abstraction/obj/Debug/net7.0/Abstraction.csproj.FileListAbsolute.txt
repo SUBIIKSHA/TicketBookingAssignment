@@ -1,0 +1,14 @@
+D:\C#\TicketBooking\Abstraction\bin\Debug\net7.0\Abstraction.exe
+D:\C#\TicketBooking\Abstraction\bin\Debug\net7.0\Abstraction.deps.json
+D:\C#\TicketBooking\Abstraction\bin\Debug\net7.0\Abstraction.runtimeconfig.json
+D:\C#\TicketBooking\Abstraction\bin\Debug\net7.0\Abstraction.dll
+D:\C#\TicketBooking\Abstraction\bin\Debug\net7.0\Abstraction.pdb
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfoInputs.cache
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfo.cs
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.dll
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\refint\Abstraction.dll
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.pdb
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\Abstraction.genruntimeconfig.cache
+D:\C#\TicketBooking\Abstraction\obj\Debug\net7.0\ref\Abstraction.dll

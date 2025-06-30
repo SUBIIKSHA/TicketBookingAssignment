@@ -1,0 +1,14 @@
+D:\C#\TicketBooking\BasicTask\bin\Debug\net7.0\BasicTask.exe
+D:\C#\TicketBooking\BasicTask\bin\Debug\net7.0\BasicTask.deps.json
+D:\C#\TicketBooking\BasicTask\bin\Debug\net7.0\BasicTask.runtimeconfig.json
+D:\C#\TicketBooking\BasicTask\bin\Debug\net7.0\BasicTask.dll
+D:\C#\TicketBooking\BasicTask\bin\Debug\net7.0\BasicTask.pdb
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.AssemblyInfoInputs.cache
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.AssemblyInfo.cs
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.csproj.CoreCompileInputs.cache
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.dll
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\refint\BasicTask.dll
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.pdb
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\BasicTask.genruntimeconfig.cache
+D:\C#\TicketBooking\BasicTask\obj\Debug\net7.0\ref\BasicTask.dll

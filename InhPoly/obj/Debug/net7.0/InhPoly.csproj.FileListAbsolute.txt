@@ -1,0 +1,14 @@
+D:\C#\TicketBooking\InhPoly\bin\Debug\net7.0\InhPoly.exe
+D:\C#\TicketBooking\InhPoly\bin\Debug\net7.0\InhPoly.deps.json
+D:\C#\TicketBooking\InhPoly\bin\Debug\net7.0\InhPoly.runtimeconfig.json
+D:\C#\TicketBooking\InhPoly\bin\Debug\net7.0\InhPoly.dll
+D:\C#\TicketBooking\InhPoly\bin\Debug\net7.0\InhPoly.pdb
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.AssemblyInfoInputs.cache
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.AssemblyInfo.cs
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.csproj.CoreCompileInputs.cache
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.dll
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\refint\InhPoly.dll
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.pdb
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\InhPoly.genruntimeconfig.cache
+D:\C#\TicketBooking\InhPoly\obj\Debug\net7.0\ref\InhPoly.dll

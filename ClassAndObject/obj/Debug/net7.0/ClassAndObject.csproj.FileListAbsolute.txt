@@ -1,0 +1,14 @@
+D:\C#\TicketBooking\ClassAndObject\bin\Debug\net7.0\ClassAndObject.exe
+D:\C#\TicketBooking\ClassAndObject\bin\Debug\net7.0\ClassAndObject.deps.json
+D:\C#\TicketBooking\ClassAndObject\bin\Debug\net7.0\ClassAndObject.runtimeconfig.json
+D:\C#\TicketBooking\ClassAndObject\bin\Debug\net7.0\ClassAndObject.dll
+D:\C#\TicketBooking\ClassAndObject\bin\Debug\net7.0\ClassAndObject.pdb
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.AssemblyInfoInputs.cache
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.AssemblyInfo.cs
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.dll
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\refint\ClassAndObject.dll
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.pdb
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ClassAndObject.genruntimeconfig.cache
+D:\C#\TicketBooking\ClassAndObject\obj\Debug\net7.0\ref\ClassAndObject.dll
