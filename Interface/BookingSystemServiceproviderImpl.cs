@@ -1,6 +1,6 @@
 using Bean;
 using Service;
-
+using exceptions;
 namespace Bean
 {
     public class BookingSystemServiceProviderImpl : EventServiceProviderImpl, IBookingSystemServiceProvider
@@ -38,7 +38,7 @@ namespace Bean
                     return;
                 }
             }
-            Console.WriteLine("Booking not found.");
+            throw new InvalidBookingIDException($"Booking ID '{bookingId}' is invalid.");
         }
 
         public Booking GetBookingDetails(int bookingId)
@@ -48,7 +48,7 @@ namespace Bean
                 if (bookings[i] != null && bookings[i].BookingId == bookingId)
                     return bookings[i];
             }
-            return null;
+            throw new InvalidBookingIDException($"Booking ID '{bookingId}' does not exist.");
         }
     }
 }
